@@ -5,17 +5,15 @@
   - [Evaluating Vulnerability Risk of a System](https://github.com/david-durkin/Google-Cybersecurity-Projects/blob/b0efe3576277b8a753e3f1d190d5f736d99b86f6/_Vulnerability-assessment-report.docx)
 - <b>Incident Response</b>
   - [Documenting Incident Handling and Response in a Journal](https://github.com/david-durkin/Google-Cybersecurity-Projects/blob/b0efe3576277b8a753e3f1d190d5f736d99b86f6/_Completed-incident-handler-s-journal-exemplar-.docx)
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+- <b>Linux</b>
+  - [Linux File Permissions](https://github.com/david-durkin/Google-Cybersecurity-Projects/blob/b0efe3576277b8a753e3f1d190d5f736d99b86f6/_File-permissions-in-Linux.docx)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+- <b>SQL</b>
+  - [Applying Filters to SQL Queries](https://github.com/david-durkin/Google-Cybersecurity-Projects/blob/b0efe3576277b8a753e3f1d190d5f736d99b86f6/_Apply-filters-to-SQL-queries.docx)
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Algorithm for File Updates)](https://github.com/david-durkin/Google-Cybersecurity-Projects/blob/b0efe3576277b8a753e3f1d190d5f736d99b86f6/_Algorithm-for-file-updates-in-Python.docx)
 
 - 🔭 I’m currently working on honing my Cybersecurity skills through TryHackMe, HacktheBox, LetsDefend along with other CTF's and home lab projects
 - 🌱 I’m currently learning additional Python skills to complement my Cybersecurity skills
