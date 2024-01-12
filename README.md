@@ -3,8 +3,8 @@
 
 - <b>Vulnerability Assessment</b>
   - [Evaluating Vulnerability Risk of a System](https://github.com/david-durkin/Google-Cybersecurity-Projects/blob/b0efe3576277b8a753e3f1d190d5f736d99b86f6/_Vulnerability-assessment-report.docx)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Incident Response</b>
+  - [Documenting Incident Handling and Response in a Journal](https://github.com/david-durkin/Google-Cybersecurity-Projects/blob/b0efe3576277b8a753e3f1d190d5f736d99b86f6/_Completed-incident-handler-s-journal-exemplar-.docx)
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
