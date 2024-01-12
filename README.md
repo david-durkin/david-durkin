@@ -1,5 +1,6 @@
 <h1>Hi, I'm David! <br/><a href="https://github.com/david-durkin">Cybersecurity Projects</a>, <a href="https://www.linkedin.com/in/davidrdurkin/">Cybersecurity Professional</a>
 <h2>📄 Certifications:</h2>
+
 - <b>Google Cybersecurity Professional Certificate</b>
   - [Certificate](https://coursera.org/share/0c55a5ed469470f61c68cdd8ba4d0266)
 
