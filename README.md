@@ -12,6 +12,7 @@
 - <b>Python</b>
   - [Algorithm for File Updates](https://github.com/david-durkin/Google-Cybersecurity-Projects/blob/b0efe3576277b8a753e3f1d190d5f736d99b86f6/_Algorithm-for-file-updates-in-Python.docx)
 
+
 - 🔭 I’m currently working on honing my Cybersecurity skills through TryHackMe, HacktheBox, LetsDefend along with other CTF's and home lab projects
 - 🌱 I’m currently learning additional Python skills to complement my Cybersecurity skills
 
