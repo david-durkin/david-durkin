@@ -7,7 +7,7 @@
   - [Documenting Incident Handling and Response in a Journal](https://github.com/david-durkin/Google-Cybersecurity-Projects/blob/b0efe3576277b8a753e3f1d190d5f736d99b86f6/_Completed-incident-handler-s-journal-exemplar-.docx)
 - <b>Linux</b>
   - [Linux File Permissions](https://github.com/david-durkin/Google-Cybersecurity-Projects/blob/b0efe3576277b8a753e3f1d190d5f736d99b86f6/_File-permissions-in-Linux.docx)
- - <b>SQL</b>
+- <b>SQL</b>
   - [Applying Filters to SQL Queries](https://github.com/david-durkin/Google-Cybersecurity-Projects/blob/b0efe3576277b8a753e3f1d190d5f736d99b86f6/_Apply-filters-to-SQL-queries.docx)
 - <b>Python</b>
   - [Algorithm for File Updates](https://github.com/david-durkin/Google-Cybersecurity-Projects/blob/b0efe3576277b8a753e3f1d190d5f736d99b86f6/_Algorithm-for-file-updates-in-Python.docx)
