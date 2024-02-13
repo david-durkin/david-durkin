@@ -6,6 +6,9 @@
 
 - <b>CISCO Security Operations Center</b>
   - [Certificate](https://coursera.org/share/c09a08fbaac41c383a37e216a2149ad5)
+
+- <b>Career Essentials in System Administration by Microsoft and LinkedIn</b>
+  - [Certificate](https://www.linkedin.com/learning/certificates/e440b78f70d172e8f47654fc8c67b9301248ba19a700f0dc96c4f5d6958e37f6)
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Vulnerability Assessment</b>
